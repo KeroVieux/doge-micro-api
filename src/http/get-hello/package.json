@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@architect/functions": "^3.10.1",
+    "aws-sdk": "^2.687.0",
+    "lodash": "^4.17.15"
+  }
+}

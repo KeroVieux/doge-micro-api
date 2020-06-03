@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@architect/functions": "^3.10.1",
+    "aws-sdk": "^2.687.0",
+    "moment": "^2.26.0",
+    "shortid": "^2.2.15",
+    "svg-captcha": "^1.4.0"
+  }
+}
