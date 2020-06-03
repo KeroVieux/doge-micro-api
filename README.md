@@ -79,7 +79,6 @@ execute the init command, `arc init`, it will generate files like
 │   └── get-index
 │       ├── .arc-config
 │       └── index.js
-├── http
 │   └── get-add
 │       ├── .arc-config
 │       └── index.js
