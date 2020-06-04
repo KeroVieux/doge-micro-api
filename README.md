@@ -37,6 +37,7 @@ more [https://arc.codes](https://arc.codes)
 3. 一键安装/升级所有函数所需要的依赖
 4. 自动编译修改后的文件
 5. 这里就展示这个工具的使用例子
+6. 所有的function都是一键启动，所以不能开启多线程，大型计算慎用
 
 ## Use it as a startkit
 ### Install
